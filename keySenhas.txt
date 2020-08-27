@@ -1,0 +1,7 @@
+keystoreGravador
+senha: gravador123
+
+alias: key0
+senha alias:gravador123
+
+primeiro e ultimo nome: Gravador Audio
